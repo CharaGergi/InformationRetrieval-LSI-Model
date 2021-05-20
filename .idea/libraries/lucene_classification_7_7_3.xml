@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-classification-7.7.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Desktop/lib/lucene-classification-7.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
